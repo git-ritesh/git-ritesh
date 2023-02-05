@@ -21,7 +21,7 @@
 <a href="https://instagram.com/spirit_aatma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spirit_aatma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stackritesh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/stackritesh" height="30" width="40" /></a>
-<a href="https://discord.gg/rGV27gNKMs" target="blank"><imdiscord.gg/rGV27gNKMsg align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="House of Spirit" height="30" width="40" /></a>
+<a href="https://discord.gg/rGV27gNKMs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="House of Spirit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
