@@ -6,22 +6,22 @@
 
 <p align="left"> <a href="https://twitter.com/spirit_aatma" target="blank"><img src="https://img.shields.io/twitter/follow/spirit_aatma?logo=twitter&style=for-the-badge" alt="spirit_aatma" /></a> </p>
 
-- 🌱 I’m currently learning **Git, GitHub & DevOps**
+- 🌱**I'm currently Learning DSA with C++, Python, and HTML & CSS **
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, Python**
 
 - 📫 How to reach me **stackritesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spirit_aatma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spirit_aatma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stack-ritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stack-ritesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stack-ritesh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20018127/ritesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20018127" height="30" width="40" /></a>
 <a href="https://codesandbox.com/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stackritesh" height="30" width="40" /></a>
 <a href="https://instagram.com/spirit_aatma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spirit_aatma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stackritesh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/stackritesh" height="30" width="40" /></a>
-<a href="https://discord.gg/Spirit#8750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Spirit#8750" height="30" width="40" /></a>
+<a href="https://discord.gg/rGV27gNKMs" target="blank"><imdiscord.gg/rGV27gNKMsg align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="House of Spirit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
