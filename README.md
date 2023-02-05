@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/spirit_aatma" target="blank"><img src="https://img.shields.io/twitter/follow/spirit_aatma?logo=twitter&style=for-the-badge" alt="spirit_aatma" /></a> </p>
 
-- 🌱**I'm currently Learning DSA with C++, Python, and HTML & CSS **
+- 🌱I'm currently **Learning DSA with C++, Python, and HTML & CSS**
 
 - 💬 Ask me about **C, C++, Python**
 
