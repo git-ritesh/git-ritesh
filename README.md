@@ -8,7 +8,7 @@
 
 - 🌱I'm currently **Learning DSA with C++, and Full Stack Web Development**
 
-- 💬 Ask me about **C, C++, HTML&CSS **
+- 💬 Ask me about **C, C++, HTML & CSS**
 
 - 📫 How to reach me **stackritesh@gmail.com**
 
