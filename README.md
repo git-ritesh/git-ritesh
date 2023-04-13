@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/spirit_aatma" target="blank"><img src="https://img.shields.io/twitter/follow/spirit_aatma?logo=twitter&style=for-the-badge" alt="spirit_aatma" /></a> </p> -->
 
-- 🌱I'm currently **Frontend Web Development**
+- 🌱I'm currently Learning **Frontend Web Development**
 
 - 💬 Ask me about **C, C++, HTML & CSS**
 
