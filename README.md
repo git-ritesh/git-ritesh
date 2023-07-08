@@ -15,7 +15,7 @@
 ### Connect with me :
 
 <p align="left">
-<a href="https://twitter.com/spirit_aatma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spirit_aatma" height="30" width="40" /></a>
+<a href="https://twitter.com/sanatani_spirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spirit_aatma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stack-ritesh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20018127/ritesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20018127" height="30" width="40" /></a>
 <a href="https://codesandbox.com/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="stackritesh" height="30" width="40" /></a>
