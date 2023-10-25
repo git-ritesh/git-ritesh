@@ -34,4 +34,4 @@
 <!-- Github Stats -->
 ![Spirit's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-ritesh&theme=chartreuse-dark&show_icons=true)
 ### My Github Streak Stats
-![GitHub Streak Image](https://github-readme-streak-stats.herokuapp.com/?user=git-ritesh&theme=chartreuse-dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=git-ritesh&theme=chartreuse-dark" alt="Spirit's Github Streak Status image">
