@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-ritesh&label=Profile%20views&color=0e75b6&style=flat" alt="git-ritesh" /> </p>
 
 <!-- Twitter Handle -->
-<p align="left"> <a href="https://twitter.com/omaewa_69" target="blank"><img src="https://img.shields.io/twitter/follow/omaewa_69?logo=twitter&style=for-the-badge" alt="omaewa_69" /></a> </p>
+<p align="left"> <a href="https://twitter.com/stackritesh" target="blank"><img src="https://img.shields.io/twitter/follow/stackritesh?logo=twitter&style=for-the-badge" alt="stackritesh" /></a> </p>
 
 - 🌱I'm currently Learning **JavaScript**
 
@@ -19,7 +19,7 @@
 <h3>Connect with me: </h3>
 <p>
 <!-- Twitter-->
-<a href="https://twitter.com/omaewa_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Spirit's twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Spirit's twitter" height="30" width="40" /></a>
 <!-- Linkedin -->
 <a href="https://linkedin.com/in/stackritesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stack-ritesh" height="30" width="40" /></a>
 <!-- Stackoverflow -->
